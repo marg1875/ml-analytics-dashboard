@@ -1,0 +1,13 @@
+# Credenciales de Mercado Libre
+# Obtenlas en: https://developers.mercadolibre.com.mx
+# 1. Crea una aplicacion
+# 2. Copia App ID y Secret Key
+# 3. Pegalas en app.py en CLIENT_ID_DEFAULT y CLIENT_SECRET_DEFAULT
+
+__pycache__/
+*.pyc
+*.csv
+test_creds.py
+test_token.py
+debug_ids.py
+scrape_test.py
