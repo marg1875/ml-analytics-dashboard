@@ -8,8 +8,8 @@ import urllib.parse
 SITE = "MLM"
 BASE_URL = "https://api.mercadolibre.com"
 AUTH_URL = "https://auth.mercadolibre.com.mx/authorization"
-CLIENT_ID_DEFAULT = ""   # Pega tu Client ID de Mercado Libre DevCenter
-CLIENT_SECRET_DEFAULT = ""  # Pega tu Client Secret de Mercado Libre DevCenter
+CLIENT_ID_DEFAULT = "6609498571342303"
+CLIENT_SECRET_DEFAULT = "uw88dvkh9MWjSfjg2Jsy0XcdDiyaLsNu"
 
 
 # ============================================================
